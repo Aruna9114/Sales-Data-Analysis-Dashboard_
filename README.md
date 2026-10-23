@@ -168,7 +168,7 @@ my-sales-project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ishant6565/my-sales-project.git
+git clone (https://github.com/Aruna9114/Sales-Data-Analysis-Dashboard_)
 cd my-sales-project
 ```
 
@@ -195,9 +195,9 @@ jupyter notebook EDA_Regional_Sales_Analysis.ipynb
 
 ## 👤 Author
 
-**Ishant Gupta**
-- **GitHub:** [@Ishant6565](https://github.com/Ishant6565)
-- **Repository:** [my-sales-project](https://github.com/Ishant6565/my-sales-project)
+**Aruna Kumari Kuppala**
+- **GitHub:** [@Ishant6565](https://github.com/Aruna9114)
+- **Repository:** [my-sales-project]((https://github.com/Aruna9114/Sales-Data-Analysis-Dashboard_))
 
 ---
 
