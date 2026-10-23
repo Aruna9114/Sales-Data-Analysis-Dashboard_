@@ -196,7 +196,7 @@ jupyter notebook EDA_Regional_Sales_Analysis.ipynb
 ## 👤 Author
 
 **Aruna Kumari Kuppala**
-- **GitHub:** [@Ishant6565](https://github.com/Aruna9114)
+- **GitHub:** (https://github.com/Aruna9114)
 - **Repository:** [my-sales-project]((https://github.com/Aruna9114/Sales-Data-Analysis-Dashboard_))
 
 ---
